@@ -1,0 +1,4 @@
+services:
+  app:
+    build: .
+    command: python -m trying_uv execute --option "hello"
