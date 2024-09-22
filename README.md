@@ -4,19 +4,8 @@
     <em>"Trying uv as package and venv manager"</em>
 </p>
 <p align="center">
-<a href="https://github.com/danbailo/trying-uv/actions/workflows/publish.yaml" target="_blank">
-    <img src="https://github.com/danbailo/trying-uv/actions/workflows/publish.yaml/badge.svg" alt="Test">
-</a>
 <a href="https://github.com/danbailo/trying-uv/actions/workflows/tests.yaml?query=branch=main" target="_blank">
     <img src="https://github.com/danbailo/trying-uv/actions/workflows/tests.yaml/badge.svg?branch=main" alt="Tests">
-</a>
-<a href="https://github.com/danbailo/trying-uv/actions/workflows/tests.yaml?query=branch=main" target="_blank">
-    <img src="https://codecov.io/gh/danbailo/trying-uv/branch/main/graph/badge.svg" alt="Coverage">
-<a href="https://pypi.org/project/trying-uv" target="_blank">
-    <img src="https://img.shields.io/pypi/v/trying-uv?color=%252334D058&label=pypi%20package" alt="Package version">
-</a>
-<a href="https://pypi.org/project/trying-uv" target="_blank">
-    <img src="https://img.shields.io/pypi/pyversions/trying-uv?color=g" alt="Python Versions">
 </a>
 </p>
 
